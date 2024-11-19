@@ -8,10 +8,9 @@
 
 ### About Me  
 I am a passionate **Software Developer** with a knack for building efficient, scalable, and user-friendly applications. I specialize in:  
-- **Automation Testing** using Selenium and Java  
-- **Cybersecurity** with a focus on vulnerability assessments  
+- **Automation Testing** using Selenium and Java   
 - **Web Development** with modern JavaScript frameworks like React and TypeScript  
-- Constantly learning and expanding into **Java** and **devops**.  
+- Constantly learning and expanding into **software development**  
 
 ---
 
