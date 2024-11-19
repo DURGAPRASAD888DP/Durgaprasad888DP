@@ -11,7 +11,7 @@ I am a passionate **Software Developer** with a knack for building efficient, sc
 - **Automation Testing** using Selenium and Java  
 - **Cybersecurity** with a focus on vulnerability assessments  
 - **Web Development** with modern JavaScript frameworks like React and TypeScript  
-- Constantly learning and expanding into **C#** and **Cloud Technologies (GCP)**.  
+- Constantly learning and expanding into **Java** and **devops**.  
 
 ---
 
