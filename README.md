@@ -47,7 +47,7 @@ I am a passionate **Software Developer** with a knack for building efficient, sc
 ### 📬 Let's Connect  
 - 📧 Email: [durgaprasadoduri888@gmail.com](mailto:your.durgaprasadoduri888@gmail.com)  
 - 💼 LinkedIn: [https://www.linkedin.com/in/durgaprasadoduri888/](https://www.linkedin.com/in/durgaprasadoduri888/)  
-- 📝 Portfolio: [my-portfolio](https://your-portfolio.com)  
+- 📝 Portfolio: [my-portfolio](https://durgaprasad888dp.github.io/DP_Profile/)  
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Welcome GIF"/>
