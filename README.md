@@ -28,7 +28,7 @@ I am a passionate **Software Developer** with a knack for building efficient, sc
 ---
 
 ### 🌟 Highlights  
-- 💻 Currently exploring **Frontend** and **Devops**.  
+- 💻 Currently exploring **Software developer** and **Data Science** role.  
 - 🔒 Strong background in **Automation Testing using Selenium** and secure coding practices.  
 - 🌍 Always excited to collaborate on open-source projects and innovative ideas!  
 
